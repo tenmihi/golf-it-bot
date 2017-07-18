@@ -1,6 +1,6 @@
-# md2bb
+# golf-it-bot
 
-> Golf-itライフをより豊かにするためのbot.
+> Golf-itライフをより豊かにするためのbot.  :golf:
 
 ## Start
 

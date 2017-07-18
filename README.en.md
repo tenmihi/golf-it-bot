@@ -1,4 +1,4 @@
-# md2bb
+# golf-it-bot
 
 > Golf-it bot makes your Golf-it life better.
 
