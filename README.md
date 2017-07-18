@@ -14,11 +14,13 @@ golf ping
 
 ## Commands
 
+すべてPrefixとして`golf `を付ける必要があります
+
 ### ping
 pingを送る．動作確認用．
 
 ### map
-Steam workshopからカスタムマップをランダムに1件取得してくる．
+Steam workshopからカスタムマップをランダムに1件取得してくる．  
 記憶していないので，取ってきたことのあるマップでも再度取ってくる可能性がある．
 
 ## Author
