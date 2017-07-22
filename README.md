@@ -4,7 +4,6 @@
 
 ## Installation
 
-### 1. botの準備
 ```bash
 git clone https://github.com/tenmihi/golf-it-bot
 
@@ -14,7 +13,7 @@ export DISCORD_GOLF_IT_CLIENT_ID='CLIENT_ID'
 
 環境変数の`DISCORD_GOLF_IT_TOKEN`にDiscord botのトークンを，同じく`DISCORD_GOLF_IT_CLIENT_ID`にクライアントIDを指定しておきます．
 
-### 3. 起動
+## Launch
 
 ```bash
 ./script/run.sh
